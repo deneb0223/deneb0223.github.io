@@ -10,7 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://deneb0223.github.io'
-baseurl:          '/'
+baseurl:          '/deneb0223'
 rss:              RSS
 
 toc:
