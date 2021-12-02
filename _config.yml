@@ -4,7 +4,7 @@ longtitle:        Sinsabridge Docs
 author:           Sinsabridge
 email:            deneb1593@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  신사브릿지 문서 저장소
 
 version:          1.0
 gitbook_version:  3.2.3
